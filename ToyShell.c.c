@@ -1,11 +1,4 @@
 /***************************************************************************//**
-@file main.c
-@author Stephen Brennan
-@date Thursday, 8 January 2015
-@brief LSH (Libstephen SHell)
-
-Daniel Garay
-006045165
 purpose of this program is a toy shell or console that allows the user to interact with a shell, and to interact with the shell, the user can interact with the shell by typing in commands.
 ************************************************************************/
 
